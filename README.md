@@ -26,5 +26,5 @@ Project's Title : Smart Humidity Guard ❄️☁️
 |----------|------------------------|-------|-------|
 | 67070200 | นายอาวิษกรณ์ ตั้งประดิษฐ์ชัย | หน้าที่ | <img alt="Build" height="200" src="assets/Member/200.jpg" width="200"/> |
 | 67070209 | นายจิณณวัตร ลัดลอย       | หน้าที่ | <img alt="Pruf" height="200" src="assets/Member/209.jpg" width="200"/> |
-| 67070227 | นายณัฐพงศ์ พรหมแก้ว      | หน้าที่ | <img alt="Pure" height="200" src="assetsMember/227.jpg" width="200"/> |
+| 67070227 | นายณัฐพงศ์ พรหมแก้ว      | หน้าที่ | <img alt="Pure" height="200" src="assets/Member/227.jpg" width="200"/> |
 | 67070251 | นายเปรม ศุภศรีสรรพ       | หน้าที่ | <img alt="Prem" height="200" src="assets/Member/251.jpg" width="200"/> |
