@@ -11,10 +11,10 @@ Project's Title : Smart Humidity Guard ❄️☁️
 - ระบบแจ้งสถานะความชื้น
 
 ## Project Website
--
+-https://purepk.github.io/Arduino-Humidity-Guard/
 
 ## Project Demo Video
--
+-https://youtu.be/xVUT3IJWjfM?si=18PReFEEXxlX821o
 
 ## Project Poster
 ![SHG Logo](assets/SHG.png)
