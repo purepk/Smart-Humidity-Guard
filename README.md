@@ -24,7 +24,7 @@ Project's Title : Smart Humidity Guard ❄️☁️
 ## Member
 |Student ID|Name                    |Topic  |Picture|
 |----------|------------------------|-------|-------|
-| 67070200 | นายอาวิษกรณ์ ตั้งประดิษฐ์ชัย | หน้าที่ | <img alt="Build" height="200" src="assets/Member/200.jpg" width="200"/> |
-| 67070209 | นายจิณณวัตร ลัดลอย       | หน้าที่ | <img alt="Pruf" height="200" src="assets/Member/209.jpg" width="200"/> |
-| 67070227 | นายณัฏฐ์พงศ์ พรหมแก้ว      | หน้าที่ | <img alt="Pure" height="200" src="assets/Member/227.jpg" width="200"/> |
-| 67070251 | นายเปรม ศุภศรีสรรพ์       | หน้าที่ | <img alt="Prem" height="200" src="assets/Member/251.jpg" width="200"/> |
+| 67070200 | นายอาวิษกรณ์ ตั้งประดิษฐ์ชัย | Presentation Team | <img alt="Build" height="200" src="assets/Member/200.jpg" width="200"/> |
+| 67070209 | นายจิณณวัตร ลัดลอย       | Hardware & Software Developer | <img alt="Pruf" height="200" src="assets/Member/209.jpg" width="200"/> |
+| 67070227 | นายณัฏฐ์พงศ์ พรหมแก้ว      | Project Lead & Web Developer | <img alt="Pure" height="200" src="assets/Member/227.jpg" width="200"/> |
+| 67070251 | นายเปรม ศุภศรีสรรพ์       | Presentation Team | <img alt="Prem" height="200" src="assets/Member/251.jpg" width="200"/> |
